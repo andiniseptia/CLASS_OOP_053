@@ -57,4 +57,4 @@ int main()
 	mhs.printData();
 	mk.inputMK();
 	mk.tampil();
-}
+} 
